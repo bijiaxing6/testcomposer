@@ -1,0 +1,19 @@
+{
+    "name": "bijiaxing/test-composer",
+    "description": "testcomposer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bijiaxing",
+            "email": "15734069790@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": { "Test\\" : "lib/" }
+    }
+}
