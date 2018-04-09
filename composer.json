@@ -9,7 +9,6 @@
             "email": "15734069790@163.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     },
